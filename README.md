@@ -1,5 +1,5 @@
 # 3DMap
-Three-dimensional interactive map powered by ARKit, Mapbox SDK and Google Directions API.  
+Three-dimensional interactive map powered by ARKit, Mapbox SDK and Google Places API.  
 
 The position and direction of the user are interactively updated.
 ![alt](https://user-images.githubusercontent.com/20081122/33886145-f11a530e-df88-11e7-8282-a17b191bafac.PNG)
